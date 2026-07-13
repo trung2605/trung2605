@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D3FC9&height=200&section=header&text=Hi,%20I'm%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hi,%20I'm%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6D3FC9&center=true&vCenter=true&width=600&lines=Java+Spring+Boot+%7C+RESTful+APIs;React+%2B+TypeScript+%2B+Node.js;Building+The+MC+Hub+%7C+ThreadLearn+AI;Backend-first%2C+full-stack+capable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Java+Spring+Boot+%7C+RESTful+APIs;React+%2B+TypeScript+%2B+Node.js;Building+The+MC+Hub+%7C+ThreadLearn+AI;Backend-first%2C+full-stack+capable" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letritrung2605@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trung-l%C3%AA-7ba564283/)
 
-<img src="https://komarev.com/ghpvc/?username=trung2605&label=Profile%20Views&color=6d3fc9&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=trung2605&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
 
 </div>
 
@@ -97,7 +97,7 @@ Outside of code, I founded **The Dreamers** — a student-run charity organizati
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/6d3fc9/trung2605" alt="GitHub contribution heatmap" />
+  <img src="https://ghchart.rshah.org/2563eb/trung2605" alt="GitHub contribution heatmap" />
 </div>
 
 ---
@@ -106,4 +106,4 @@ Outside of code, I founded **The Dreamers** — a student-run charity organizati
   <sub>📫 letritrung2605@gmail.com · 🌐 <a href="https://trungle2605.vercel.app/">trungle2605.vercel.app</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6D3FC9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%"/>
