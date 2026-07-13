@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hi,%20I'm%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Hi,%20I'm%20Trung&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&speed=8" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Java+Spring+Boot+%7C+RESTful+APIs;React+%2B+TypeScript+%2B+Node.js;Building+The+MC+Hub+%7C+ThreadLearn+AI;Backend-first%2C+full-stack+capable" alt="Typing SVG" />
@@ -96,14 +96,10 @@ Outside of code, I founded **The Dreamers** — a student-run charity organizati
   <img src="https://raw.githubusercontent.com/trung2605/trung2605/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2563eb/trung2605" alt="GitHub contribution heatmap" />
-</div>
-
 ---
 
 <div align="center">
   <sub>📫 letritrung2605@gmail.com · 🌐 <a href="https://trungle2605.vercel.app/">trungle2605.vercel.app</a></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer&speed=8" width="100%"/>
